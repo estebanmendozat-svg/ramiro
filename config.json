@@ -1,0 +1,8 @@
+{
+  "restaurantName": "Restaurante Demo",
+  "waiterName": "Ramiro",
+  "tagline": "Camarero virtual",
+  "currency": "CLP",
+  "locale": "es-CL",
+  "scriptUrl": "https://script.google.com/macros/s/AKfycbxsSUAKTb8OPOMN36ODNyrs7s2gUJeJYy5WcH7D0Rd4UAFCTBf3HyVwaTD3e6ikjTgq/exec"
+}
